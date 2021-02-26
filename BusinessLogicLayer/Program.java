@@ -6,5 +6,8 @@ import DataAccessLayer.DB;
 
 public class Program
 {
-    //Hi
+    public static void main(String[] args) 
+    {
+            
+    }
 }
